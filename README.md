@@ -5,6 +5,9 @@
 - 📫 How to reach me ... LinkedIn 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
+- create a password generator using python
+-  # deffine the instances run code
+-  
 
 <!---
 cloudawsuse123/cloudawsuse123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
